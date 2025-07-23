@@ -1,4 +1,4 @@
-#🚀 Netflix Analytics Dashboard - Built With Power BI 📊 
+# 🚀 Netflix Analytics Dashboard - Built With Power BI 📊 
 
 Excited to share my latest Netflix Analytics Dashboard,
 where I analyzed content trends, top genres , IMDb ratings,
